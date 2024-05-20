@@ -1,0 +1,106 @@
+html {
+    background-color: #63B995;
+    margin: 0;
+    border: 0;}
+header {
+    background-color: #323031;
+    border-style: solid;
+    border-color: #50723C;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 80px;}
+footer {
+    background-color: #323031;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 80px;
+    min-width: 250;}
+h1 {
+    font-size: 40px;
+    font-family: 'Verdana';
+    color: #FFE1EA;}
+header #a1:hover {
+    background-color: #63B995;
+    padding: 30px 15px;
+    border-radius: 9px;
+    transition-duration: 0.5s;}
+p {
+    font-size: 30px;
+    font-family: Tahoma;
+    color: white;}
+#p2 {
+    font-size: 30px;
+    font-family: Tahoma;
+    color: #323031;}
+#p1 {
+    font-size: 20px;
+    font-family: Tahoma;
+    color: white;
+    margin: 15px;}
+#h11 {
+    font-size: 40px;
+    font-family: 'Verdana';
+    color: #323031;
+    margin-top: 1px;}
+#h1h {
+    margin-left: 50px;}
+#a1 {
+    color: #FFE1EA;
+    font-size: 15px;}
+#img1 {
+    float: left;
+    border: transparent thin solid;
+    padding:  10px;
+    margin: 0px 0px 0px 20px;
+    max-width: 200px;
+    height: 80px;}
+#img12 {
+        float: left;
+        border: transparent thin solid;
+        padding:  10px;
+        margin: 0px 0px 0px 20px;
+        max-width: 200px;
+        height: 80px;}
+
+/* divs e boxes*/
+#div1 {
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;}
+#div2 {
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 40px;
+    margin-left: 40px;}
+#div3 {
+    height: 350px;
+    background-color: #FFE1EA;
+    padding: 55px;}
+#div4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;}
+#box {
+    width: 450px;
+    height: 250px;
+    background-color: #50723C;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:  #323031;
+    border-radius: 10px;}
+li {
+    margin-bottom: 3px;
+}
+#a7 {
+    font-size: 20;
+}
